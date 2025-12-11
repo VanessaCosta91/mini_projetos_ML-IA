@@ -32,7 +32,7 @@ Agente Conversacional para Sugestão Personalizada (LLM + RAG).
 
 A lista abaixo será atualizada conforme novos projetos forem adicionados.
 
-1. ** [Classificador de Sentimentos (Simples)](01_classificardo_emocoes_simples) **: Mini-projeto para classificar frases como positivas ou negativas usando um conjunto pequeno de textos rotulados. Criado para treinar fundamentos de Machine Learning aplicado a texto.
+1. ** [Classificador de Sentimentos (Simples)](01_classificador_emocoes_simples) **: Mini-projeto para classificar frases como positivas ou negativas usando um conjunto pequeno de textos rotulados. Criado para treinar fundamentos de Machine Learning aplicado a texto.
 2. *Aguardando inclusão*
 
 ---
