@@ -33,7 +33,10 @@ Agente Conversacional para Sugestão Personalizada (LLM + RAG).
 A lista abaixo será atualizada conforme novos projetos forem adicionados.
 
 1. ** [Classificador de Sentimentos (Simples)](01_classificador_emocoes_simples) **: Mini-projeto para classificar frases como positivas ou negativas usando um conjunto pequeno de textos rotulados. Criado para treinar fundamentos de Machine Learning aplicado a texto.
-2. *Aguardando inclusão*
+
+2. **[Classificador de Emoções em Texto](02_classificado_emocoes_df)**: Projeto de Machine Learning para classificar frases em emoções básicas (positivo, negativo e neutro) a partir de textos. Desenvolvido para consolidar fundamentos de NLP, incluindo limpeza de texto, vetorização com CountVectorizer e treinamento de um modelo Multinomial Naive Bayes.
+
+0. *Aguardando inclusão*
 
 ---
 
@@ -41,6 +44,8 @@ A lista abaixo será atualizada conforme novos projetos forem adicionados.
 
 - Python
 - Scikit-Learn
+- Pandas
+- Joblib
 - *Será atualizado conforme inclusão de projetos*
 
 ---
@@ -62,7 +67,3 @@ Este repositório é parte do meu processo de aprendizado contínuo.
 
 Sugestões e feedback são bem-vindos.
 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/vanessa-costa-analysis/
-
-
-
-
